@@ -1,7 +1,9 @@
 # Anastasia Zdobnova
-![1647866031426](img/1647866031426)
+![1647866031426](img/1647866031426.jpeg)
+
 
 ##INFORMATION
+
 
 Computer Systems Engineering and Informatics
 Specialization: Computer Aided Design Systems
