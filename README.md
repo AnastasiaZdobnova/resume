@@ -6,11 +6,17 @@
 
 
 Computer Systems Engineering and Informatics
+
 Specialization: Computer Aided Design Systems
+
 Technical Skills C/C++/C#, Java, Swift, Python
+
 Languages Fluent in Russian; Conversational Proficiency in English
+
 Frameworks/Libraries Figma, Xcode
+
 Interests Mobile development, Design
+
 ## EXPERIENCE
 
 ### Specialist in monitoring the work of robots
