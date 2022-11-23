@@ -26,9 +26,9 @@ AO Severnyy Press St Petersburg, Russia ON (07.2021 – 09.2021)
 1. Setting up operating systems
 2. Repair and improvement of hardware
 3. Working with optical fiber
-IT Project Development Specialist
 
-### Astrakhan Youth Innovation Center Astrakhan, Russia ON (06.2017 – 11.2017)
+### IT Project Development Specialist
+Astrakhan Youth Innovation Center Astrakhan, Russia ON (06.2017 – 11.2017)
 
 1. Development of information projects
 2. Teaching and assistance in the implementation of projects
